@@ -29,7 +29,3 @@
 
 ### Image 5: Gauge Chart
 ![Gauge Chart](https://github.com/mrma2318/Belly_Button_Biodiversity/blob/dcef81368e9f8e36a2ce85b150aae151c308ccf6/images/guage.png)
-
-## Results
-
-## Summary
