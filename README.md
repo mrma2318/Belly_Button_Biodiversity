@@ -25,7 +25,7 @@
 ### Image 4: Bubble Chart
 ![Bubble Chart](https://github.com/mrma2318/Belly_Button_Biodiversity/blob/dcef81368e9f8e36a2ce85b150aae151c308ccf6/images/bubble_chart.png)
 
-- Lastly, I made a gauge chart that displays the weekly washing frequency's values, where the values were measured on a scale from 0-10, Image 5. Then I customized the [webpage]() by changing the background, font color, adding a description of the project, and adding spaces between the charts and the top and bottom of the page. 
+- Lastly, I made a gauge chart that displays the weekly washing frequency's values, where the values were measured on a scale from 0-10, Image 5. Then I customized the [webpage](http://127.0.0.1:5501/js/index.html) by changing the background, font color, adding a description of the project, and adding spaces between the charts and the top and bottom of the page. 
 
 ### Image 5: Gauge Chart
 ![Gauge Chart](https://github.com/mrma2318/Belly_Button_Biodiversity/blob/dcef81368e9f8e36a2ce85b150aae151c308ccf6/images/guage.png)
